@@ -69,8 +69,8 @@ def main():
     
     print("Starting Dune Analytics data extraction...")
 
-    process_token_balances(addresses)
-    # process_defi_trades(addresses)
+    # process_token_balances(addresses)
+    process_defi_trades(addresses)
     
     print("Data extraction and CSV writing completed successfully.")
 
