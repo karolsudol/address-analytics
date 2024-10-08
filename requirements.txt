@@ -2,3 +2,4 @@ requests
 python-dotenv
 clickhouse-driver
 dune-client
+pandas
