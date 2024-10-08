@@ -1,3 +1,5 @@
+token_balances.csv
+defi_trades.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,6 +133,7 @@ env.bak/
 venv.bak/
 
 addresses.csv
+addresses_head.csv
 
 # Spyder project settings
 .spyderproject
