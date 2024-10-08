@@ -131,6 +131,7 @@ env.bak/
 venv.bak/
 
 addresses.csv
+addresses_head.csv
 
 # Spyder project settings
 .spyderproject
